@@ -14,10 +14,3 @@ criaCartao(
     'Brawl Stars',
     'Qual melhor modo de Jogo?',
     'No Brawl existe vários modos de jogo, de modos de jogo sozinho até o modo 5v5, cada um com sua vrariante de ganho de troféu.'
-)
-
-criaCartao(
-    'Brawl Stars',
-    'Qual a melhor categoria de Brawler no Brawl Stars?',
-    'Existem diversas categorias no Brawl Stars, detre elas (Destruidora,Tanque,Suporte,Lnçador,Tiro Preciso,Controle,Detonador e Algoz) A categoria que você escolhe varía conforme o seu estilo de jogo, cada categoria é boa em certo modo ou contra algum adversário.'
-)
